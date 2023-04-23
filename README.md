@@ -13,4 +13,7 @@ Includes 3 data tables:
 
 ## Requirement of the project
 The senior manager wants to see information about the business situation to make a market expansion strategy and decide on strategic product selection.
-## 
+## Design Thinking Method
+Prior to developing solutions and visualizing data related to the problem, I will undertake a thorough understanding of the problem through the application of the five primary stages of the design thinking process			
+
+
