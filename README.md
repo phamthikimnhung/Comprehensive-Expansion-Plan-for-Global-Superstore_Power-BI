@@ -35,7 +35,7 @@ Prior to developing solutions and visualizing data related to the problem, I wil
 ## VI. Recommendation
 * Research the reasons why sales often drop at the beginning of the year to find the right business development plan and why the table is a negative profit margin
 * Continue to consider expanding APAC, EU, and US markets. 
- -> In the APAC market, the two countries that bring high revenue value are China and India. Focus on industries such as Technology and Furniture. At the same time, find out why Australia has the largest revenue in the APAC region but generates only 3rd in profit in the whole region.
- -> In the EU market, focusing on the United Kingdom and Germany and Technology and Office Supplies. Unlike APAC, the Furniture industry does not generate much revenue here. Specifically developing Sub-Category binders, furnishings, and accessories to generate large profit margins and low revenue
+-> In the APAC market, the two countries that bring high revenue value are China and India. Focus on industries such as Technology and Furniture. At the same time, find out why Australia has the largest revenue in the APAC region but generates only 3rd in profit in the whole region. 
+-> In the EU market, focusing on the United Kingdom and Germany and Technology and Office Supplies. Unlike APAC, the Furniture industry does not generate much revenue here. Specifically developing Sub-Category binders, furnishings, and accessories to generate large profit margins and low revenue
 * Promote marketing activities in the 3rd and 4th quarters of each year, focusing on potential products (Low Sales but High-Profit Margin) such as Accessories, Art, Papers, Envelopes besides the products of Phones, Bookcases, Copier groups, Chair already the strength of the company
  * Besides, promoting up-sale and cross-sale activities to increase order value.
