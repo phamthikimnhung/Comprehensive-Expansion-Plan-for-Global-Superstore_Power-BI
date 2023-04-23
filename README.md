@@ -9,7 +9,7 @@ Includes 3 data tables:
 * People: information of salesperson
 * Returns: information on returned orders
 ### Data dictionary
-![Data Dic Sales](https://user-images.githubusercontent.com/129883764/233846007-57fbf00c-5ba8-454c-a08e-eeabd2521b53.PNG)
+![image](https://user-images.githubusercontent.com/129883764/233850596-17a19294-72dd-43b7-b240-a93da2ad9070.png)
 
 ## Requirement of the project
 The senior manager wants to see information about the business situation to make a market expansion strategy and decide on strategic product selection.
