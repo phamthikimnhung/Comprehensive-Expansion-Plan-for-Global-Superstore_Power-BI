@@ -1,7 +1,7 @@
 # Global-Superstore-Sales_Power-BI
 ## Dataset 
-### Introduction 
-(You can download detail file above with name _"1. Superstore_Sales_Dataset xlxs"_
+### Introduction )
+(You can download detail file above with name _"1. Superstore_Sales_Dataset xlxs"_)
 **Global Superstore Sales**. Dataset stores sales information of some products of a company worldwide
 Includes 3 data tables: 
 * Orders: fact order
