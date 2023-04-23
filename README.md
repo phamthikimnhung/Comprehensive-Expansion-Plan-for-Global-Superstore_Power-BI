@@ -2,11 +2,11 @@
 ## Dataset 
 ### Introduction
 Dataset stores sales information of some products of a company worldwide
-Includes 3 data tables:
+Includes 3 data tables:(The detailed file with the name _"1. Superstore_Sales_Dataset xlxs"_can be downloaded from the above location)
 * Orders: fact order
 * People: information of salesperson
 * Returns: information on returned orders
-(The detailed file with the name _"1. Superstore_Sales_Dataset xlxs"_can be downloaded from the above location. )
+
 ### Data dictionary
 ![image](https://user-images.githubusercontent.com/129883764/233850596-17a19294-72dd-43b7-b240-a93da2ad9070.png)
 
