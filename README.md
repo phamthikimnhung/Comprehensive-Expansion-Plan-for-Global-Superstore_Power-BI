@@ -1,4 +1,4 @@
-# Global-Superstore-Sales_Power-BI
+# Global Superstore Sales
 ## I. Dataset 
 ### 1. Introduction
 Dataset stores sales information of some products of a company worldwide <br>
