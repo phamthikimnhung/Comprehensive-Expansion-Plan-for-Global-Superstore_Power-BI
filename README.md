@@ -32,8 +32,8 @@ Before developing solutions and visualizing data related to the problem, I will 
 * Top 1 product that has the highest profit is Canon ImageCLASS 2200 Advanced Copier, especially since this product is created only in the USA in the top 10 countries by profit and revenue.
 ## VI. My Recommendation
 * Research the reasons why sales often drop at the beginning of the year to find the right business development plan. Also, investigate why the table has a negative profit margin.
-* Continue to consider expanding into the APAC, EU, and US markets.
-** In the APAC market, focus on China and India, which bring in high revenue. Concentrate on industries such as Technology and Furniture. Additionally, find out why Australia has the largest revenue in the APAC region but generates only the 3rd highest profit in the whole region.
+* Continue to consider expanding into the APAC, EU, and US markets. <br>
+** In the APAC market, focus on China and India, which bring in high revenue. Concentrate on industries such as Technology and Furniture. Additionally, find out why Australia has the largest revenue in the APAC region but generates only the 3rd highest profit in the whole region. <br>
 ** In the EU market, focus on the United Kingdom and Germany and industries such as Technology and Office Supplies. Unlike APAC, the Furniture industry does not generate much revenue here. Specifically, develop subcategories such as binders, furnishings, and accessories to generate large profit margins with low revenue.
 * Promote marketing activities in the 3rd and 4th quarters of each year, focusing on potential products with low sales but high-profit margins, such as Accessories, Art, Papers, and Envelopes, in addition to the products that are already the strengths of the company such as Phones, Bookcases, Copiers, and Chairs.
 * Promote up-sale and cross-sale activities to increase the order value.
