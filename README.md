@@ -13,7 +13,7 @@ The senior manager wants to see information about the business situation to make
 ## III. Design Thinking Method
 Before developing solutions and visualizing data related to the problem, I will undertake a deep understanding of the problem through the application of the five primary stages of the design thinking process.		
 ![image](https://user-images.githubusercontent.com/129883764/233848893-5a43a918-79ce-4b75-9b44-b077f0f41882.png)
-## VI. Visualization in Power BI
+## IV. Visualization in Power BI
 ![image](https://user-images.githubusercontent.com/129883764/233850447-8167785b-2162-49d8-af95-e09781981631.png)
 ## V. Insight
 ### 1. General business situation
