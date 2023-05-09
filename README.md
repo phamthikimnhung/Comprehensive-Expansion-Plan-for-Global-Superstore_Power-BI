@@ -1,4 +1,4 @@
-# Debt Recovery Efficiency Analysis for Bank X Collection Performance
+# Global Superstore: Strategic Market Expansion & Product Selection
 ## I. Dataset 
 ### 1. Introduction
 Dataset stores sales information of some products of a company worldwide <br>
