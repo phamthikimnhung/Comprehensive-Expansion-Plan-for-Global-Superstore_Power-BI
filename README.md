@@ -1,4 +1,4 @@
-# Comprehensive Expansion Plan for Global Superstore
+# Global Superstore: Expansion & Strategy
 ## I. Dataset 
 ### 1. Introduction
 Dataset stores sales information of some products of a company worldwide <br>
