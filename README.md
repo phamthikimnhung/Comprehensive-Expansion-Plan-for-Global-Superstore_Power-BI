@@ -1,4 +1,4 @@
-# Global Superstore: Expansion & Strategy
+# Superstore: Expansion & Selection
 ## I. Dataset 
 ### 1. Introduction
 Dataset stores sales information of some products of a company worldwide <br>
